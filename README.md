@@ -1,4 +1,4 @@
-projects
+project
 =======
 
-Store Khanh's projects
+Store Khanh's project
